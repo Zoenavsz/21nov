@@ -1,0 +1,33 @@
+body{
+    background: rgb(246, 240, 230);
+    color: #d65858;
+}
+h1{
+    width: 100px;
+    color: aquamarine;
+}
+.title-h3-300{
+    color: rgb(23, 132, 164);
+    font-weight: 300;
+    colo
+}
+.title-h3-400{
+    font-weight: 400;
+}
+.title-h3-800{
+    color: rgba(9, 36, 168, 0.3);
+    font-weight: 800;
+}
+.unaprueba{
+    background: purple;
+    padding: 30px;
+    border: 5px solid blueviolet;
+    margin: 10px;
+}
+.unboton{
+    background: black;
+    color: #ffffff;
+    padding: 30px;
+    border: 5px solid limegreen;
+    margin: 10px;
+}
